@@ -1,20 +1,22 @@
 using System;
 					
-public class Program
+public class TwoSum
 {
+	/*
 	public static void Main()
 	{
 		int[] arr = new int[]{2,7,11,15};
-		int[] result = TwoSum(arr,9);
+		int[] result = GetTwoSum(arr,9);
 			Console.WriteLine(result.Length);
 		for(int i=0;i < result.Length;i++){
 			Console.WriteLine(result[i]);
 		}
 	}
+	*/
 	//loop the array
 	//for each element, target-nums[i] = secondNum e.g 9-2=7, num + x = target
 	
-	public static int[] TwoSum(int[] nums, int target){
+	public static int[] GetTwoSum(int[] nums, int target){
 		int[] numbersIndices = new int[2];
 		
 		for(int i = 0; i < nums.Length; i++){

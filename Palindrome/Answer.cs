@@ -1,11 +1,13 @@
 using System;
 					
-public class Program
+public class Palindrome
 {
+	/*
 	public static void Main()
 	{
 		Console.WriteLine(IsStringPalindrome("nitiN"));
 	}
+	*/
 	
 	public static bool IsStringPalindrome(string str){
 		if(str == ""){

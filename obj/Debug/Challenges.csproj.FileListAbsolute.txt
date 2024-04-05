@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\NBL Backup\Challenges\Challenges\obj\Debug\Challenges.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\NBL Backup\Challenges\Challenges\obj\Debug\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\NBL Backup\Challenges\Challenges\bin\Debug\Challenges.exe.config
+C:\Users\Admin\Documents\NBL Backup\Challenges\Challenges\bin\Debug\Challenges.exe
+C:\Users\Admin\Documents\NBL Backup\Challenges\Challenges\bin\Debug\Challenges.pdb
+C:\Users\Admin\Documents\NBL Backup\Challenges\Challenges\obj\Debug\Challenges.exe
+C:\Users\Admin\Documents\NBL Backup\Challenges\Challenges\obj\Debug\Challenges.pdb

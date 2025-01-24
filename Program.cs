@@ -10,7 +10,7 @@ namespace Challenges
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(LengthOfLastWord.GetLengthOfLastWord("   fly me   to   the moon  "));
+            Console.WriteLine(LengthOfLastWord.GetLengthOfLastWord("   fly me   to   the moon  ")); //test
             Console.ReadKey();
         }
     }
